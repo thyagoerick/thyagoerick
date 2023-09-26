@@ -24,6 +24,9 @@ Frontend:
 ![React](https://img.shields.io/badge/-React-23272F?style=flat-square&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
+UI/UX:
+![Figma](https://img.shields.io/badge/-Figma-83DBFE?style=flat-square&logo=figma)
+
 Backend: 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![PHP](https://img.shields.io/badge/-PHP-7A86B8?style=flat-square&logo=php&logoColor=white)
