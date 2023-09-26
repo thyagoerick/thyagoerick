@@ -1,4 +1,4 @@
-# Thyago Erick S. Gois
+# Thyago Erick
 
 Full-stack Developer & UI/UX Designer
 
