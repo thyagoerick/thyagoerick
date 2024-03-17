@@ -37,12 +37,12 @@ Database:
 ![MySQL](https://img.shields.io/badge/-MySQL-E5289E?style=flat-square&logo=mysql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-E5289E?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-E5289E?style=flat-square&logo=mongodb&logoColor=white)
-![Oracle Database Cloud](https://img.shields.io/badge/Oracle%20Cloud-E5289E?style=flat-square&logo=oracle&logoColor=white)
+![Oracle Database](https://img.shields.io/badge/Oracle%20Cloud-E5289E?style=flat-square&logo=oracle&logoColor=white)
 
 Cloud:
 ![AWS](https://img.shields.io/badge/AWS-E5289E?style=flat-square&logo=amazonaws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-E5289E?style=flat-square&logo=firebase&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-E5289E?style=flat-square&logo=google-cloud&logoColor=white)
+![Oracle Database Cloud](https://img.shields.io/badge/Oracle%20Cloud-E5289E?style=flat-square&logo=oracle&logoColor=white)
 
 Tools:
 ![Git](https://img.shields.io/badge/-Git-E5289E?style=flat-square&logo=git&logoColor=white)
