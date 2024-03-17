@@ -50,6 +50,8 @@ Tools:
 ![GitHub](https://img.shields.io/badge/-GitHub-E5289E?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-E5289E?style=flat-square&logo=docker&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-E5289E?style=flat-square&logo=trello&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-E5289E?style=flat-square&logo=postman&logoColor=white)
+
 
 IDEs:
 ![Eclipse](https://img.shields.io/badge/-Eclipse-E5289E?style=flat-square&logo=eclipse&logoColor=white)
