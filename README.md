@@ -58,6 +58,6 @@ IDEs:
 PaaS:
 ![Vercel](https://img.shields.io/badge/-Vercel-E5289E?style=flat-square&logo=vercel&logoColor=white)
 
-BaaS:
+IDaaS:
 ![auth0](https://img.shields.io/badge/-auth0-E5289E?style=flat-square&logo=auth0&logoColor=white)
 
