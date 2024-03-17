@@ -54,3 +54,10 @@ IDEs:
 ![Eclipse](https://img.shields.io/badge/-Eclipse-E5289E?style=flat-square&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-E5289E?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-E5289E?style=flat-square&logo=intellij-idea&logoColor=white)
+
+PaaS:
+![Vercel](https://img.shields.io/badge/-Vercel-E5289E?style=flat-square&logo=vercel&logoColor=white)
+
+BaaS:
+![auth0](https://img.shields.io/badge/-auth0-E5289E?style=flat-square&logo=auth0&logoColor=white)
+
