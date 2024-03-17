@@ -38,6 +38,7 @@ Database:
 ![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-E5289E?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-E5289E?style=flat-square&logo=mongodb&logoColor=white)
 ![Oracle Autonomous Database](https://img.shields.io/badge/Oracle%20Autonomous%20Database-E5289E?style=flat-square&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-E5289E?style=flat-square&logo=postgresql&logoColor=white)
 
 Cloud:
 ![AWS](https://img.shields.io/badge/AWS-E5289E?style=flat-square&logo=amazonaws&logoColor=white)
