@@ -46,7 +46,10 @@ UI/UX:
 - ORMs:
   ![Hibernate](https://img.shields.io/badge/-Hibernate-E5289E?style=flat-square&logo=Hibernate&logoColor=white)
   ![Sequelize](https://img.shields.io/badge/-Sequelize-E5289E?style=flat-square&logo=Sequelize&logoColor=white)
- 
+
+- Build Tools:
+  ![Apache Maven](https://img.shields.io/badge/-Apache%20Maven-E5289E?style=flat-square&logo=apachemaven&logoColor=white)
+  ![NPM](https://img.shields.io/badge/-NPM-E5289E?style=flat-square&logo=npm&logoColor=white) 
   
 Database:
 ![MySQL](https://img.shields.io/badge/-MySQL-E5289E?style=flat-square&logo=mysql&logoColor=white)
