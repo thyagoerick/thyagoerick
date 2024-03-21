@@ -42,6 +42,7 @@ UI/UX:
 - Frameworks:
   ![Express](https://img.shields.io/badge/-Express-E5289E?style=flat-square&logo=Express&logoColor=white)
   ![VRaptor](https://img.shields.io/badge/-VRaptor-E5289E?style=flat-square&logo=VRaptor&logoColor=white)
+  ![JPA](https://img.shields.io/badge/-JPA-E5289E?style=flat-square&logo=JPA&logoColor=white)
 
 - ORMs:
   ![Hibernate](https://img.shields.io/badge/-Hibernate-E5289E?style=flat-square&logo=Hibernate&logoColor=white)
