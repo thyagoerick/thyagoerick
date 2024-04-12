@@ -31,6 +31,7 @@ These are some of the technologies and tools I work with, have worked with or ha
   
 UI/UX:
 ![Figma](https://img.shields.io/badge/-Figma-E5289E?style=flat-square&logo=figma&logoColor=white)
+![Excalidraw](https://img.shields.io/badge/-Excalidraw-E5289E?style=flat-square&logo=excalidraw&logoColor=white)
 
 ----
 
@@ -65,8 +66,9 @@ Database:
 - PaaS:
 ![AWS](https://img.shields.io/badge/AWS-E5289E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GCP-E5289E?style=flat-square&logo=google-cloud&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/OCP-E5289E?style=flat-square&logo=oracle&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/OCI-E5289E?style=flat-square&logo=oracle&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-E5289E?style=flat-square&logo=vercel&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-E5289E?style=flat-square&logo=githubpages&logoColor=white)
 - IDaaS:
 ![auth0](https://img.shields.io/badge/-auth0-E5289E?style=flat-square&logo=auth0&logoColor=white)
 
@@ -78,7 +80,14 @@ Database:
 ![Docker](https://img.shields.io/badge/-Docker-E5289E?style=flat-square&logo=docker&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-E5289E?style=flat-square&logo=trello&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-E5289E?style=flat-square&logo=postman&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-E5289E?style=flat-square&logo=microsoftexcel&logoColor=white)
 - IDEs:
 ![Eclipse](https://img.shields.io/badge/-Eclipse-E5289E?style=flat-square&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-E5289E?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-E5289E?style=flat-square&logo=intellij-idea&logoColor=white)
+
+----
+
+### SOs:
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E5289E?style=flat-square&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-E5289E?style=flat-square&logo=windows&logoColor=white)
