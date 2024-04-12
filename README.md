@@ -1,8 +1,8 @@
 # Thyago Erick
 
-Full-stack Developer & UI/UX Designer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=15&duration=2500&pause=500&color=1ED760&random=false&width=300&height=22&lines=Full+Stack+Developer;UI%2FUX+Designer;Data+Science+%26+Statistics+Enthusiast;Open+Source+Advocate;Eternal+apprentice)](https://git.io/typing-svg)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Thyago%20Erick-E5289E?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thyagoerick/)](https://www.linkedin.com/in/thyagoerick/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-E5289E?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thyagoerick/)](https://www.linkedin.com/in/thyagoerick/)
 
 
 <div>
@@ -24,7 +24,7 @@ These are some of the technologies and tools I work with, have worked with or ha
 - Libs:
   ![React](https://img.shields.io/badge/-React-E5289E?style=flat-square&logo=react&logoColor=white)
 - Template Engines:
-  ![Handlebars](https://img.shields.io/badge/-Handlebars-E5289E?style=flat-square&logo=handlebars&logoColor=white)
+  ![Handlebars](https://img.shields.io/badge/-Handlebars-E5289E?style=flat-square&logo=handlebarsdotjs&logoColor=white)
   ![JSP](https://img.shields.io/badge/-JSP-E5289E?style=flat-square&logo=jsp&logoColor=white)
 - Frameworks:
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-E5289E?style=flat-square&logo=bootstrap&logoColor=white)
@@ -81,6 +81,7 @@ Database:
 ![Trello](https://img.shields.io/badge/-Trello-E5289E?style=flat-square&logo=trello&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-E5289E?style=flat-square&logo=postman&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-E5289E?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Tmux](https://img.shields.io/badge/-tmux-E5289E?style=flat-square&logo=tmux&logoColor=white)
 - IDEs:
 ![Eclipse](https://img.shields.io/badge/-Eclipse-E5289E?style=flat-square&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-E5289E?style=flat-square&logo=visual-studio-code&logoColor=white)
