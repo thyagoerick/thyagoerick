@@ -5,11 +5,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-E5289E?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thyagoerick/)](https://www.linkedin.com/in/thyagoerick/)
 
 
-
-
 <div>
    <a href="https://github.com/thyagoerick">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thyagoerick&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyagoerick&layout=compact&langs_count=6&theme=synthwave"/>
 </div>
 
@@ -71,6 +68,8 @@ Database:
 ![Oracle Cloud](https://img.shields.io/badge/OCI-E5289E?style=flat-square&logo=oracle&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-E5289E?style=flat-square&logo=vercel&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-E5289E?style=flat-square&logo=githubpages&logoColor=white)
+![HostGator](https://img.shields.io/badge/-HostGator-E5289E?style=flat-square&logo=HostGator&logoColor=white)
+![Locaweb](https://img.shields.io/badge/-Locaweb-E5289E?style=flat-square&logo=Locaweb&logoColor=white)
 - IDaaS:
 ![auth0](https://img.shields.io/badge/-auth0-E5289E?style=flat-square&logo=auth0&logoColor=white)
 
