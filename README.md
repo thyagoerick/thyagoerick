@@ -20,7 +20,7 @@ These are some of the technologies and tools I work with, have worked with or ha
 - Frameworks:
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-E5289E?style=flat-square&logo=bootstrap&logoColor=white)
   
-UI/UX:
+- UI/UX:
 ![Figma](https://img.shields.io/badge/-Figma-E5289E?style=flat-square&logo=figma&logoColor=white)
 ![Excalidraw](https://img.shields.io/badge/-Excalidraw-E5289E?style=flat-square&logo=excalidraw&logoColor=white)
 
