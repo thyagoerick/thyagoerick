@@ -44,7 +44,7 @@ These are some of the technologies and tools I work with, have worked with or ha
   ![Apache Maven](https://img.shields.io/badge/-Apache%20Maven-E5289E?style=flat-square&logo=apachemaven&logoColor=white)
   ![NPM](https://img.shields.io/badge/-NPM-E5289E?style=flat-square&logo=npm&logoColor=white) 
   
-Database:
+- Database:
 ![MySQL](https://img.shields.io/badge/-MySQL-E5289E?style=flat-square&logo=mysql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-E5289E?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-E5289E?style=flat-square&logo=mongodb&logoColor=white)
