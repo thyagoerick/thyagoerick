@@ -4,14 +4,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-E5289E?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thyagoerick/)](https://www.linkedin.com/in/thyagoerick/)
 
-
-<div>
-   <a href="https://github.com/thyagoerick">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyagoerick&layout=compact&langs_count=6&theme=synthwave"/>
-</div>
-
-
-
 ## Technologies
 
 These are some of the technologies and tools I work with, have worked with or have had some contact with:
